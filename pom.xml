@@ -56,4 +56,8 @@
         <module>quora-api</module>
     </modules>
 
+    <build>
+        <defaultGoal>install</defaultGoal>
+    </build>
+
 </project>
