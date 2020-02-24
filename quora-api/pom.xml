@@ -40,7 +40,6 @@
             <groupId>com.upgrad.quora</groupId>
             <artifactId>quora-service</artifactId>
             <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
         </dependency>
 
         <dependency>
